@@ -5,6 +5,17 @@
 
 The goal of this project is to create a classifier and see how accurately it can predict song genres. Taking a dataset from Spotify [Pandya, 2022], which is al- ready using machine learning algorithms for these purposes, can help assess if the resulting model can be considered apt for a large-scale business or is more appropriate for a smaller audio streaming market player.
 
+## Used Machine Learning Methods
+- SVM
+- Decision Tree
+- Gaussian Naive Bayes
+- K-nn
+- MLP
+- Multinomial Naive Bayes
+- Nearest Centroids
+- Random Forest
+- XGBoost
+
 ## Structure
 
 The contents of the repository are the following:
