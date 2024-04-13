@@ -1,3 +1,6 @@
+
+<img width="689" alt="Screenshot 2024-04-13 at 14 43 50" src="https://github.com/abisliouk/IE500-DataMining-FinalProject/assets/101648535/ac35c087-15f2-48b9-9df2-e71d4850948b">
+
 # Song genre predictor based on Spotify data
 
 The goal of this project is to create a classifier and see how accurately it can predict song genres. Taking a dataset from Spotify [Pandya, 2022], which is al- ready using machine learning algorithms for these purposes, can help assess if the resulting model can be considered apt for a large-scale business or is more appropriate for a smaller audio streaming market player.
